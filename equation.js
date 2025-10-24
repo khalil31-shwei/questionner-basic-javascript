@@ -1,7 +1,7 @@
 var x = 2 
 var a = prompt ( " wchhal katsawi a ")
-var b = prompt ( " wchhal katsawi of b ")
-var c = prompt ( " wchhal katsawi of c ")
+var b = prompt ( " wchhal katsawi  b ")
+var c = prompt ( " wchhal katsawi  c ")
  a = Number (a);
   b = Number (b);
    c = Number (c);
