@@ -1,4 +1,4 @@
-var x = 2 
+const x = 2 
 var a = prompt ( " wchhal katsawi a ")
 var b = prompt ( " wchhal katsawi  b ")
 var c = prompt ( " wchhal katsawi  c ")
